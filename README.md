@@ -8,9 +8,11 @@ Antes de começar, você vai precisar ter um cluster kafka / zookeeper para a ap
 [Kafka](https://kafka.apache.org/).
 
 <h1>Variáveis de ambiente</h1> <br>
+
 ```bash
 # export nas variáveis
 KAFKA_BROKERS= exemplo(kafka:9092,kafka2:9092)
+
 ```
 
 <h1>Rodando a App localmente </h1>
@@ -29,7 +31,7 @@ $ npm install
 $ node ./src/server.js
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
-```
+
 
 <br>
 
