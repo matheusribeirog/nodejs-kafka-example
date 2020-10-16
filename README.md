@@ -1,4 +1,4 @@
-<h1>Kafka Example</h1>
+<h1>Kafka Example👨‍💻</h1>
 
 <p align="center"> Aplicação para facilitar os Devops a testarem Kafka com uma aplicação Real, produzindo e consumindo mensagens do kafka.</p>
 
