@@ -7,9 +7,9 @@
 Antes de começar, você vai precisar ter um cluster kafka / zookeeper para a app se comunicar:
 [Kafka](https://kafka.apache.org/).
 
-<h1>Variáveis de ambiente</h1>
-```# Brokers Kafka
-KAFKA_BROKERS=
+<h1>Variáveis de ambiente</h1> <br>
+```
+KAFKA_BROKERS= exemplo(kafka:9092,kafka2:9092)
 ```
 
 <h1>Rodando a App localmente </h1>
