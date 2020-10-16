@@ -1,0 +1,19 @@
+{
+  "name": "kafka-example",
+  "version": "1.0.0",
+  "description": "Criado para Realizar os testes e Poc com o MSK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matheusribeirog/nodejs-kafka-example"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "kafkajs": "^1.14.0"
+  }
+}
