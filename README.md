@@ -8,7 +8,7 @@ Antes de começar, você vai precisar ter um cluster kafka / zookeeper para a ap
 [Kafka](https://kafka.apache.org/).
 
 <h1>Variáveis de ambiente</h1> <br>
-```
+```bash
 KAFKA_BROKERS= exemplo(kafka:9092,kafka2:9092)
 ```
 
