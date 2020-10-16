@@ -32,6 +32,7 @@ $ node ./src/server.js
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 
+```
 
 <br>
 
