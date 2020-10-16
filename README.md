@@ -11,7 +11,7 @@ Antes de começar, você vai precisar ter um cluster kafka / zookeeper para a ap
 
 ```bash
 # export nas variáveis
-KAFKA_BROKERS= exemplo(kafka:9092,kafka2:9092)
+export KAFKA_BROKERS= exemplo(kafka:9092,kafka2:9092)
 
 ```
 
