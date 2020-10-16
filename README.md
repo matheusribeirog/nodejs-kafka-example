@@ -9,6 +9,7 @@ Antes de começar, você vai precisar ter um cluster kafka / zookeeper para a ap
 
 <h1>Variáveis de ambiente</h1> <br>
 ```bash
+# export nas variáveis
 KAFKA_BROKERS= exemplo(kafka:9092,kafka2:9092)
 ```
 
