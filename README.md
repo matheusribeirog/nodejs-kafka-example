@@ -74,3 +74,5 @@ $ node ./src/server.js
 ```
 [GET] http://localhost:8080/kafka-example/mensagem/todas
 ```
+
+**Docker Compose - Running Kafka Local
