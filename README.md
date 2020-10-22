@@ -76,4 +76,4 @@ $ node ./src/server.js
 ```
 
 **Docker Compose - Running Kafka Local
-
+docker compose up
