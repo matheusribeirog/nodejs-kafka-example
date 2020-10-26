@@ -34,6 +34,8 @@ $ node ./src/server.js
 
 ```
 
+<h1> Rodando o kafka localmente com docker </h1>
+
 <br>
 
 <h1>Requests da API </h1>
