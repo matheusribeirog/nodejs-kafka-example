@@ -79,3 +79,4 @@ $ node ./src/server.js
 
 **Docker Compose - Running Kafka Local
 
+git clone https://github.com/matheusribeirog/nodejs-kafka-example
