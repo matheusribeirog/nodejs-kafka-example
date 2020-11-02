@@ -81,4 +81,5 @@ $ node ./src/server.js
 
 git clone https://github.com/matheusribeirog/nodejs-kafka-example
 cd nodejs-kafka-example
+docker
 
