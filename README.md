@@ -83,3 +83,6 @@ git clone https://github.com/matheusribeirog/nodejs-kafka-example
 cd nodejs-kafka-example
 docker-compose up
 
+**Stop the service
+ docker compose down
+
